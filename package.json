@@ -2,6 +2,7 @@
   "name": "wallet-project-front",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vladimir-maselskiy.github.io/wallet-front/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.3",
