@@ -1,7 +1,7 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'https://wallet-project.onrender.com/api';
+axios.defaults.baseURL = 'https://wallet-back.onrender.com/api';
 
 export const addNewTransaction = createAsyncThunk(
   'transaction/ADD',
